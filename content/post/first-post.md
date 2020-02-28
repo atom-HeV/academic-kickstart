@@ -5,7 +5,7 @@ title: "最初の投稿"
 subtitle: ""
 summary: ""
 authors: []
-tags: []
+tags: ["雑談"]
 categories: []
 date: 2020-02-29T00:48:28+09:00
 lastmod: 2020-02-29T00:48:28+09:00
