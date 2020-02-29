@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: 北海道大学 工学部 成功エレクトロニクス学科 情報理工学コース
+  - course: 北海道大学 工学部 情報エレクトロニクス学科 情報理工学コース
     year: 2018 Apr -
   - course: 北海道大学 総合教育部 理系
     year: 2017 Apr - 2018 Mar
