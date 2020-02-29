@@ -61,4 +61,5 @@ user_groups:
 - Programmers
 ---
 
-北大のB3です。TwitterのBOT作ったり、競技プログラミングしたりしてます。
+北大のB3です。TwitterのBOT作ったり、競技プログラミングしたりしてます。  
+AtCoder : [HeV](https://atcoder.jp/users/HeV) (Highest Rating:907)
